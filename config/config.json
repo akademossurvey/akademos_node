@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "akademos",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "akademos",
+    "dialect": "postgres",
+    "host": "localhost"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "admin",
+    "database": "akademos",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
